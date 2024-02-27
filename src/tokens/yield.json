@@ -1,0 +1,51 @@
+[
+    {
+        "name": "zkLend Interest-Bearing ETH",
+        "protocol": "zklend",
+        "decimal": 18,
+        "address": "0x01b5bd713e72fdc5d63ffd83762f81297f6175a5e0a4771cdadbc1dd5fe72cb1",
+        "underlying": "ETH"
+    },
+    {
+        "name": "zkLend Interest-Bearing DAI",
+        "protocol": "zklend",
+        "decimal": 18,
+        "address": "0x062fa7afe1ca2992f8d8015385a279f49fad36299754fb1e9866f4f052289376",
+        "underlying": "DAI"
+    },
+    {
+        "name": "zkLend Interest-Bearing USDC",
+        "protocol": "zklend",
+        "decimal": 6,
+        "address": "0x047ad51726d891f972e74e4ad858a261b43869f7126ce7436ee0b2529a98f486",
+        "underlying": "USDC"
+    },
+    {
+        "name": "zkLend Interest-Bearing WBTC",
+        "protocol": "zklend",
+        "decimal": 8,
+        "address": "0x02b9ea3acdb23da566cee8e8beae3125a1458e720dea68c4a9a7a2d8eb5bbb4a",
+        "underlying": "WBTC"
+    },
+    {
+        "name": "zkLend Interest-Bearing USDT",
+        "protocol": "zklend",
+        "decimal": 6,
+        "address": "0x00811d8da5dc8a2206ea7fd0b28627c2d77280a515126e62baa4d78e22714c4a",
+        "underlying": "USDT"
+    },
+    {
+        "name": "Carmine ETH/USDC call pool",
+        "protocol": "carmine",
+        "decimal": 18,
+        "address": "0x07aba50fdb4e024c1ba63e2c60565d0fd32566ff4b18aa5818fc80c30e749024",
+        "underlying": "ETH"
+    },
+    {
+        "name": "Carmine ETH/USDC put pool",
+        "protocol": "carmine",
+        "decimal": 6,
+        "address": "0x018a6abca394bd5f822cfa5f88783c01b13e593d1603e7b41b00d31d2ea4827a",
+        "underlying": "USDC"
+    }
+]
